@@ -71,6 +71,11 @@ npm run dev
 ]
 ```
 
+## Live Demo
+
+- https://simple-diagram-dashboard.onrender.com
+
+
 ## 💼 Author
 
 **Ritesh Kumar Jena**  
